@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Welcome to NewtSun"
+description: "This is a demo of the NewtSun Blog."
 ---
 
-This is a demo site built entirely using Blowfish.
+Less can be more.

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["golang", "python","linux"]
+mainSections = ["golang", "python","linux","diary"]
 # mainSections = ["section1", "section2"]
 # robots = ""
 
