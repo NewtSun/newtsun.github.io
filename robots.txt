@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newtsun.github.io/sitemap.xml
