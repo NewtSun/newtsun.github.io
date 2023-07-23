@@ -2,7 +2,7 @@
 title: "Python 博客第一篇"
 date: 2023-07-15T15:43:21+08:00
 draft: False
-tags: ["yun"]
+tags: [""]
 ---
 
 # This is title
