@@ -26,9 +26,14 @@
   weight = 30
 
 [[main]]
+  name = "Cloud"
+  pageRef = "cloud/"
+  weight = 40
+
+[[main]]
   name = "Diary"
   pageRef = "diary/"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Blog"

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["golang", "python","linux","diary"]
+mainSections = ["golang", "python","linux","cloud","diary"]
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -39,7 +39,7 @@ smartTOC = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 12
   showMoreLink = true
   showMoreLinkDest = "/golang"
   cardView = true

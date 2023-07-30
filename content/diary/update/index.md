@@ -7,10 +7,14 @@ tags: ["Update"]
 
 Blog 更新日志
 
+## 2023.07.30
+
+* Update Linux、Diary
+* Add Cloud
+
 ## 2023.07.23
 
 * Update Linux、Diary、Golang
-
 
 ## 2023.07.15
 
