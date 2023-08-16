@@ -1,10 +1,8 @@
 ---
-
 title: "Linux 常用命令"
 date: 2023-07-22T16:29:21+08:00
 draft: False
 tags: ["Commands"]
-
 ---
 Linux 常用的命令及相关的基础知识
 

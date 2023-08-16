@@ -1,6 +1,6 @@
 ---
-title: "Go 面经"
-date: 2023-07-15T15:43:21+08:00
+title: "Go 面试题"
+date: 2023-07-11T15:43:21+08:00
 draft: False
 tags: ["Interview"]
 ---
