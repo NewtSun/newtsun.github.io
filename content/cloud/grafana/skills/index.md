@@ -5,7 +5,7 @@ draft: False
 tags: ["Grafana"]
 ---
 
-因工作需要，所以在自己的电脑上配了个 Grafana 的环境，有一些坑，作为记录
+在自己的电脑上配了个 Grafana 的环境，有一些坑，作为记录
 ## 1.ubuntu 桌面安装 Grafana 前传（Docker）
 
 因为打算在自己电脑上起一个 grafana 的镜像，所以没有使用 portainer 的方式用 compose 去管理、拉取镜像和运行容器（占内存（虽然不大））
