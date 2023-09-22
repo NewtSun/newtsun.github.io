@@ -1,5 +1,5 @@
 ---
-title: "Redis 持久化相关问题"
+title: "Redis 持久化"
 date: 2023-09-21T15:24:14+08:00
 draft: False
 tags: ["Redis","review"]

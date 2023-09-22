@@ -1,5 +1,5 @@
 ---
-title: "大 Key 相关问题"
+title: "Redis 大 Key"
 date: 2023-09-21T15:24:14+08:00
 draft: False
 tags: ["Redis","review"]
@@ -19,8 +19,6 @@ Redis 中 大 Key 相关问题总结
 - Hash、List、Set、ZSet 类型的元素的个数超过 5000个；
 
 > 大 key 会造成什么问题？
-
-
 
 大 key 会带来以下四种影响：
 
